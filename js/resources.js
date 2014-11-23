@@ -34,9 +34,9 @@ game.resources = [
  
     // the main player spritesheet
     {name: "gripe_run_right", type:"image", src: "data/img/sprite/gripe_run_right.png"},
-    
+
     /* 
      * Maps. 
      */
-    {name: "area01", type: "tmx", src: "data/map/area01.json"}
+    {name: "area01", type: "tmx", src: "data/map/area01.tmx"}
 ];

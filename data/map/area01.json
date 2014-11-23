@@ -44,6 +44,18 @@
                  "x":128,
                  "y":224
                 }],
+         "opacity":0.899999976158142,
+         "type":"objectgroup",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":15,
+         "name":"collision",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
