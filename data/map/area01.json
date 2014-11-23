@@ -22,6 +22,34 @@
          "width":20,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":15,
+         "name":"\u5bf9\u8c61\u5c42 1",
+         "objects":[
+                {
+                 "height":64,
+                 "name":"mainPlayer",
+                 "properties":
+                    {
+                     "image":"gripe_run_right",
+                     "spriteheight":"",
+                     "spritewidth":"64"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":128,
+                 "y":224
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
         }],
  "orientation":"orthogonal",
  "properties":
